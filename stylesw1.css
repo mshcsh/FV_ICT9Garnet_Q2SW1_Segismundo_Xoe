@@ -1,0 +1,12 @@
+body{
+		background: #E5D4ED
+}
+div{
+			color: white;
+			text-align: center;
+		}
+
+	h1{
+		text-decoration: underline;
+		text-transform: uppercase;
+		letter-spacing: 8px;
